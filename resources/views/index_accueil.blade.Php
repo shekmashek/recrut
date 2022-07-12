@@ -89,7 +89,7 @@
                 <div class="row h-100">
                     <div class="container p-0 g-0">
                         <div class="col-6 section1_text g-0 m-0">
-                            <h1>Plateforme de gestion de recrutement en ligne</h1>
+                            <h1>Plateforme de gestion de recrutement en ligne test</h1>
                             <p class="pt-5 pe-5">La première plateforme malagasy de gestion de recrutement, un outil
                                 incontournable et innovateur du milieu professionnel. <br> Découvrez les horizons
                                 de notre logiciel et en quoi il vous est indispensable.
